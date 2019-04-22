@@ -1,0 +1,30 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    background-color: #333;
+    color:#fff;
+    padding: 0.5rem;
+    border-radius: 10px;
+}
+
+h2{
+    text-align:center;
+}
+
+.random-word{
+    color: rgb(30, 214, 168);
+}
+
+ul{
+    padding:0;
+}
+
+li{
+    list-style:none;
+    padding: 0.5rem;
+    margin: 0.5rem;
+    background: rgb(236, 236, 236);
+    color: rgb(49, 48, 48);
+}
